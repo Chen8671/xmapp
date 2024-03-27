@@ -226,7 +226,9 @@ ServerAdmin 8wingflying@gmail.com
 # it explicitly to prevent problems during startup.
 #
 # If your host doesn't have a registered DNS name, enter its IP address here.
-#
+#範例一:SercerName 127.0.0.1:80
+#範例二:SercerName 
+#範例三:SercerName 
 ServerName localhost:80
 
 #
